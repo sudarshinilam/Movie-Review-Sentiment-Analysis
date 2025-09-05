@@ -26,7 +26,10 @@ The project also includes *visualizations* (distribution of sentiments, confusio
 - IMDB Dataset.csv → dataset of movie reviews  
 - sentiment_analysis.ipynb → main Python script for training & prediction  
 - requirements.txt → required Python libraries  
-- README.md → documentation of the project  
+- README.md → documentation of the project
+## 📂 Dataset
+The dataset is too large for GitHub.  
+👉 [Download from Google Drive](https://drive.google.com/drive/folders/1MnuIRPfxgr4bHvKGslgzETnhT_JgFJiv?usp=sharing)
 
 ---
 
